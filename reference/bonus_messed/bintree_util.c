@@ -3,11 +3,15 @@
 
 bintree_node	*get_left_child_node_bt(bintree_node *node)
 {
+	if (node == NULL)
+		return (NULL);
 	return (node->left_child);
 }
 
 bintree_node	*get_right_child_node_bt(bintree_node *node)
 {
+	if (node == NULL)
+		return (NULL);
 	return (node->right_child);
 }
 

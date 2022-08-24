@@ -1,18 +1,17 @@
 #include "bintree.h"
 
-// Preorder V L R
+// Preorder P L R
 void	preorder(bintree_node *tree_node)
 {
 	if (!tree_node)
 		return ;
 	printf("%d ", tree_node->data);
 	tree_node->visited = 1;
-	preorder(tree_node);
 	preorder(tree_node->left_child);
 	preorder(tree_node->right_child);
 }
 
-// Inorder L V R
+// Inorder L P R
 void	inorder(bintree_node *tree_node)
 {
 	if (!tree_node)
@@ -24,7 +23,7 @@ void	inorder(bintree_node *tree_node)
 	inorder(tree_node->right_child);
 }
 
-// Postorder L R V
+// Postorder L R P
 void	postorder(bintree_node *tree_node)
 {
 	if (!tree_node)

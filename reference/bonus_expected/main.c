@@ -43,5 +43,5 @@ int main(void)
 	postorder(tree->root_node);
 	printf("\n");
 	delete_bintree(tree);
-	system("leaks a.out");
+	// system("leaks a.out");
 }
