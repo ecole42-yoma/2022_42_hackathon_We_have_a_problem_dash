@@ -1,9 +1,9 @@
 # We_have_a_problem
 ## 2022 42서울 에듀톤 "사" 팀
 ### 구성원
-yongmkim([Yòmá](https://github.com/codeyoma))   
-seseo([lscitl](https://github.com/lscitl))
-wchae([SpaceChae](https://github.com/enaenen))
+yongmkim ([Yòmá](https://github.com/codeyoma))   
+seseo ([lscitl](https://github.com/lscitl))
+wchae ([SpaceChae](https://github.com/enaenen))
 
 -------
 
