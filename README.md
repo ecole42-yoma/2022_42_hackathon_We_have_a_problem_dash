@@ -4,8 +4,10 @@
 
 ## 2022 42서울 에듀톤 "사" 팀
 ### 구성원
-#### TeamLeader 
-yongmkim ([Yòmá](https://github.com/codeyoma))   
+#### Team
+ |Role|IntraName|Name|GitHub|
+ |:---:|:---:|:---:|:---:|:---:|
+ |TeamLeader|yongmkim|김용만|([Yòmá](https://github.com/codeyoma))| 
 #### TeamMember
 seseo ([lscitl](https://github.com/lscitl)), wchae ([SpaceChae](https://github.com/enaenen))
 
