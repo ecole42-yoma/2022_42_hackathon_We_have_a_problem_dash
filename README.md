@@ -4,9 +4,9 @@
 
 ## 2022 42서울 에듀톤 "사" 팀
 ### 구성원
-####TeamLeader 
+#### TeamLeader 
 yongmkim ([Yòmá](https://github.com/codeyoma))   
-####TeamMember
+#### TeamMember
 seseo ([lscitl](https://github.com/lscitl)), wchae ([SpaceChae](https://github.com/enaenen))
 
 C 에서 발생할 수 있는 사소하지만 찾기 어려운 에러들을 체험해보고 에러가 발생했을때 어떤 문제가 생기는지 학습해보는 학습자료를 제작
