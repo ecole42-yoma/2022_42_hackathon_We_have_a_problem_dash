@@ -3,18 +3,12 @@
 
 
 ## 2022 42서울 에듀톤 "사" 팀
-### 구성원
-#### Team
-
- |Order|Circle|Project|Stack|Status|Subject|Score|
- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
- |01|00|[**Libft**](https://github.com/bigpel66/42-cursus/tree/main/circle-00/Libft)|C|Completed|[Subject](https://github.com/bigpel66/42-cursus/blob/main/circle-00/circle00%20-%20Libft.pdf)|[![jseo's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2062894)](https://github.com/JaeSeoKim/badge42)|
-
-|Role|IntraName|Name|GitHub|
- |:---:|:---:|:---:|:---:|:---:|
- |TeamLeader|yongmkim|김용만|([Yòmá](https://github.com/codeyoma))| 
-#### TeamMember
-seseo ([lscitl](https://github.com/lscitl)), wchae ([SpaceChae](https://github.com/enaenen))
+### Team
+ |Role|IntraName|Name|GitHub|
+ |:---:|:---:|:---:|:---:|
+ |Leader|yongmkim|김용만|[Yòmá](https://github.com/codeyoma)|
+ |Member|seseo|서승덕|[lscitl](https://github.com/lscitl)|
+ |Member|wchae|채우주|[SpaceChae](https://github.com/enaenen)|
 
 C 에서 발생할 수 있는 사소하지만 찾기 어려운 에러들을 체험해보고 에러가 발생했을때 어떤 문제가 생기는지 학습해보는 학습자료를 제작
 이 Subject 를 통해서 개발에서 중요한 메모리 관리와 에러 처리 문제해결력 기르는 것을 목표로 만들었습니다.
