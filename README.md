@@ -5,7 +5,12 @@
 ## 2022 42서울 에듀톤 "사" 팀
 ### 구성원
 #### Team
- |Role|IntraName|Name|GitHub|
+
+ |Order|Circle|Project|Stack|Status|Subject|Score|
+ |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+ |01|00|[**Libft**](https://github.com/bigpel66/42-cursus/tree/main/circle-00/Libft)|C|Completed|[Subject](https://github.com/bigpel66/42-cursus/blob/main/circle-00/circle00%20-%20Libft.pdf)|[![jseo's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2062894)](https://github.com/JaeSeoKim/badge42)|
+
+|Role|IntraName|Name|GitHub|
  |:---:|:---:|:---:|:---:|:---:|
  |TeamLeader|yongmkim|김용만|([Yòmá](https://github.com/codeyoma))| 
 #### TeamMember
