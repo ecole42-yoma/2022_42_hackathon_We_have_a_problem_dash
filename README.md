@@ -4,8 +4,10 @@
 
 ## 2022 42서울 에듀톤 "사" 팀
 ### 구성원
-TeamLeader : yongmkim ([Yòmá](https://github.com/codeyoma))   
-TeamMember: seseo ([lscitl](https://github.com/lscitl)), wchae ([SpaceChae](https://github.com/enaenen))
+####TeamLeader 
+yongmkim ([Yòmá](https://github.com/codeyoma))   
+####TeamMember
+seseo ([lscitl](https://github.com/lscitl)), wchae ([SpaceChae](https://github.com/enaenen))
 
 C 에서 발생할 수 있는 사소하지만 찾기 어려운 에러들을 체험해보고 에러가 발생했을때 어떤 문제가 생기는지 학습해보는 학습자료를 제작
 이 Subject 를 통해서 개발에서 중요한 메모리 관리와 에러 처리 문제해결력 기르는 것을 목표로 만들었습니다.
