@@ -28,6 +28,6 @@ C 에서 발생할 수 있는 사소하지만 찾기 어려운 에러들을 체�
 
 [1차 발표](https://www.canva.com/design/DAFKNiqD424/qa2Plb5AmpPpRQLK-ZySwQ/edit?utm_content=DAFKNiqD424&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-[2차 발표(영문 발표)](https://www.canva.com/design/DAFKRRlWMg0/8Biv5k8nlc8zULTT9N6D_g/view?utm_content=DAFKRRlWMg0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[2차 발표(영문 발표)](https://www.canva.com/design/DAFKRRlWMg0/O3AN64nc3Ks2dI2RipuWGQ/edit?utm_content=DAFKRRlWMg0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
